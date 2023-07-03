@@ -19,6 +19,7 @@ insert into Departments values(6,7,"Information Technology & Society");
 
 insert into Departments values(7,4,"Mathematics & Basic Sciences");
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 insert into Employees values(2, "ashish.choudhury@iiitb.ac.in", "Ashish", "Choudhury", "1234", "Ashish-Choudhury.jpeg", "Associate professor", 1);
 
@@ -38,6 +39,7 @@ insert into Employees values(9, "amitprakash@iiitb.ac.in", "Amit", "Prakash", "1
 
 insert into Employees values(10, "manisha.kulkarni@iiitb.ac.in", "Manisha", "Kulkarni", "1234", "Manisha_Kulkarni_.jpeg", "Associate Professor",7);
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 
 insert into Courses values(1,150,"CS511",4,"","Algorithms","Aug-Dec",2020-21,NULL);
 
@@ -53,6 +55,7 @@ insert into Courses values(6,50,"NC824",4,"","IOT","Aug-Dec",2020-21,NULL);
 
 insert into Courses values(7,150,"NC850",4,"","Foundations of Cryptography","Aug-Dec",2020-21,NULL);
 
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 insert into Course_Schedule values(4,"B1",3,"Wednesday","R105","16:00",3);
 
